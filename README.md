@@ -1,0 +1,3 @@
+- Angular
+- Electron + Forge + Vite + Typescript
+- ESLint
